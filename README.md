@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm bhupen</h1>
 <h3 align="center">"A data science enthusiast from India, turning numbers into insights."</h3>
 
-<p align="left"> <img src="C:\Users\pc\Downloads\low-poly-abstract-design" /> </p>
+<p align="left"> <img src=""C:\Users\pc\git_learning\11910.jpg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhupencod3" alt="bhupencod3" /></a> </p>
 
